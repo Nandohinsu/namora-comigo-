@@ -16,7 +16,6 @@ O botão NÃO foge quando o mouse chega perto.
 
 ---
 
-## 🌐 Contato
 
 <p align="center">
 📌 Funcionalidades
@@ -28,7 +27,7 @@ Fácil de modificar
 Feito apenas com Python
 </p>
 
-📷 
+📷 Preview
 
 <img src="./pedido.png" width="600px">
 
@@ -37,16 +36,18 @@ Feito apenas com Python
 
 
 
+<p align="center">
 🚀 Tecnologias usadas
 Python
 Tkinter
 Random
 Webbrowser
+<p/>
+  
+<p align="center">
 🎮 Como executar
 
 Clone o repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Entre na pasta:
 
@@ -55,10 +56,9 @@ cd seu-repositorio
 Execute:
 
 python pedido.py
+<p/>
 
-ou:
-
-py pedido.py
+<p align="center">
 📌 Funcionalidades
 Interface fofa em rosa
 Botão "SIM" funcional
@@ -74,3 +74,4 @@ Esse projeto foi criado para praticar Python de uma forma divertida e criativa.
 📄 Licença
 
 Livre para uso e modificação.
+<p/>
