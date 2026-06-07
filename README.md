@@ -9,7 +9,11 @@ Você aceita namorar comigo?
 O botão SIM abre um link especial no navegador.
 O botão NÃO foge quando o mouse chega perto.
 
-📷 Preview
+## 📷 Preview
+
+<img src="./pedido.png" width="600px">
+
+
 
 
 
